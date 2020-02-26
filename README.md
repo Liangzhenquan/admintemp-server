@@ -1,3 +1,5 @@
+[jsonwebtoken](#jsonwebtoken)
+[目录结构](#目录结构)
 使用：
 
 - koa
@@ -6,6 +8,8 @@
 - nodemon --监听文件修改
 - jsonwebtoken --用于生成 token
 - koa-bodyparser
+
+  下载后先安装依赖即可
 
 ## jsonwebtoken
 
